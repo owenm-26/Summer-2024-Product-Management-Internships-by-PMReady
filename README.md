@@ -5,7 +5,6 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 | ------- | -------- | ------ | ----- |
 | [Capital One](https://www.capitalonecareers.com/job/mclean/product-development-intern-summer-2024/31238/51746418592) | McLean, Virginia</br>Plano, Texas | Banking | Graduating before August 2025 |
 | [PWC](https://www.linkedin.com/jobs/search/?currentJobId=3674578416&f_E=1&geoId=103644278&keywords=product%20management%20intern&location=United%20States&refresh=true) | Detroit -Remote | Tech | ----- |
-
 | [PWC](https://www.linkedin.com/jobs/search/?currentJobId=3674574608&f_E=1&geoId=103644278&keywords=product%20management%20intern&location=United%20States&refresh=true) | Albany - Remote | Tech | ----- |
 | [PWC](https://www.linkedin.com/jobs/search/?currentJobId=3674573784&f_E=1&geoId=103644278&keywords=product%20management%20intern&location=United%20States&refresh=true) | Buffalo - Remote | Tech | ----- |
 | [PWC](https://www.linkedin.com/jobs/search/?currentJobId=3674578415&f_E=1&geoId=103644278&keywords=product%20management%20intern&location=United%20States&refresh=true) | Rochester - Remote | Tech | ----- |
