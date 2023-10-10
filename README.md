@@ -6,3 +6,11 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 | Walmart | Product Manager Intern | San Bruno, CA; Hoboken, NJ; Bentonville, AR| [Apply](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/San-Bruno-CA/XMLNAME-2024-Summer-Intern--US-Product--Product-Manager--Walmart-Intern_R-1650925-1?source=Job_Board_LinkedIn&_ccid=1693450769526t37rxdf9j) | Expected graduation date between December 2024-August 2025 |
 | Tencent | Product Manager Intern - Pixel Lab | New York, NY| [Apply](https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-New-York/Product-Manager-Intern---Pixel-Lab_R101520?source=10100001) |  |
 | Microsoft | Product Manager: Intern Opportunities | Redmond, WA| [Apply](https://jobs.careers.microsoft.com/global/en/job/1605747/Product-Manager%3A-Intern-Opportunities-for-University-Students%2C-Redmond) | $5k - $10k per month |
+| Okta | Product Manager Intern, Customer Identity Cloud (Summer 2024) | US & Canada Remote | [Apply](https://www.okta.com/company/careers/product/product-manager-intern-customer-identity-cloud-summer-2024-5364066/?gh_src=7j0um41) | Graduation date between December 2024-June 2025 |
+| Datadog | Product Manager - Intern | New York, NY | [Apply](https://app.ripplematch.com/v2/public/job/03f11278/details?tl=77acd255&fromPage=tracking_link) | |
+| Paypal | Product Manager Intern | San Jose, CA; Chicago, IL | [Apply](https://paypal.eightfold.ai/careers?Codes=W-LINKEDIN&domain=paypal.com&query=R0107564&sort_by=relevance) | Summer 2024 Internship program |
+| UiPath | Product Manager Intern | Bellevue, WA | [Apply](https://careers.uipath.com/careers/jobs/8231?lang=en-us) | |
+| Linkedin | Associate Product Manager Intern - Summer 2024 | Sunnyvale, CA| [Apply](https://www.linkedin.com/jobs/search/?currentJobId=3731712933&distance=25&geoId=103644278&keywords=product%20manager%20intern&origin=JOBS_HOME_SEARCH_CARDS&start=25) | |
+| Brex | Product Manager Intern (Remote) | Remote | [Apply](https://www.brex.com/careers/6956857002?gh_jid=6956857002&gh_src=a894a5ff2) | |
+| Tesla | Technical Program Manager, Vehicle Development Operations | Palo Alto, CA | [Apply](https://www.tesla.com/careers/search/job/204124?source=LinkedIn) | Expected Compensation: $30.05 - $42.07 + benefits|
+
