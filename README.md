@@ -3,7 +3,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 ![Hello](https://github.com/owenm-26/Summer-2024-Product-Management-Internships-by-PMReady/assets/75864321/7826d9ab-c844-429e-9981-18dc224eeb13)
 
-| Company | Title | Location | Application Link | Dated Posted | Notes |
+| Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- |
 | DeShaw & Co | Technical Program Manager Intern | New York, NY | [Apply](https://www.deshaw.com/careers/systems-technical-program-manager-intern-new-york-summer-2024-4786) | | |
 | Ancestry | Product Manager Intern | Lehi, UT | [Apply](https://careers.ancestry.com/jobs/f3f46ea1-7550-4bb2-86ef-a9e3574752f7) | | |
