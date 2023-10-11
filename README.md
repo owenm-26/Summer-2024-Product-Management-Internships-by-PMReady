@@ -15,4 +15,10 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 | Linkedin | Associate Product Manager Intern - Summer 2024 | Sunnyvale, CA| [Apply](https://www.linkedin.com/jobs/search/?currentJobId=3731712933&distance=25&geoId=103644278&keywords=product%20manager%20intern&origin=JOBS_HOME_SEARCH_CARDS&start=25) | |
 | Brex | Product Manager Intern (Remote) | Remote | [Apply](https://www.brex.com/careers/6956857002?gh_jid=6956857002&gh_src=a894a5ff2) | |
 | Tesla | Technical Program Manager, Vehicle Development Operations | Palo Alto, CA | [Apply](https://www.tesla.com/careers/search/job/204124?source=LinkedIn) | Expected Compensation: $30.05 - $42.07 + benefits|
-
+| Schneider Electric | Product Manager Intern | Nashville, TN; Boston, MA | [Apply](https://careers.se.com/global/jobs/59103?lang=en-us&iis=Job%20Board&iisn=linkedin&src=linkedin) | |
+| Adobe | 2024 Intern – Data Governance Product Manager | Seattle, WA; San Jose, CA  | [Apply](https://careers.adobe.com/us/en/job/ADOBUSR141491EXTERNALENUS/2024-Intern-Data-Governance-Product-Manager?utm_medium=phenom-feeds&source=LinkedIn&utm_source=linkedin) | |
+| EA | Product Manager Intern (Apex Legends) | Los Angelos, CA | [Apply](https://ea.gr8people.com/jobs/180110/product-manager-intern-apex-legends?sid=4) | Can be remote work, $37 - $58 per hr |
+| EA | Product Manager Intern | Redwood City, CA | [Apply]([https://careers.uipath.com/careers/jobs/8231?lang=en-us](https://ea.gr8people.com/jobs/180819/product-manager-intern?sid=4)) | Can be remote work,  $22 - $36 per hr|
+| Graco | Digital Product Manager Intern | Minneapolis, MI | [Apply](https://graco.wd5.myworkdayjobs.com/Graco_Careers/job/Minneapolis-Minnesota-USA-Tech-Center/Digital-Product-Manager-Intern_R0016613?source=Linkedin) | |
+| Crusoe | University | Intern - Associate Product Manager | 2024 | San Francisco, CA | [Apply](https://jobs.ashbyhq.com/Crusoe/b8e1c5cb-87b2-4f84-baac-2042ef0b04ab) | |
+| Ancestry | Product Manager, Summer Intern - Search | Lehi, UT | [Apply](https://careers.ancestry.com/jobs/f3f46ea1-7550-4bb2-86ef-a9e3574752f7?src=LinkedIn&source=linkedin&utm_source=linkedin) | |
