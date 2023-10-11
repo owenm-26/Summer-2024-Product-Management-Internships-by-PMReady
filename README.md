@@ -5,6 +5,10 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Application Link | Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- |
+| DeShaw & Co | Technical Program Manager Intern | New York, NY | [Apply](https://www.deshaw.com/careers/systems-technical-program-manager-intern-new-york-summer-2024-4786) | | |
+| Ancestry | Product Manager Intern | Lehi, UT | [Apply](https://careers.ancestry.com/jobs/f3f46ea1-7550-4bb2-86ef-a9e3574752f7) | | |
+| Amazon | Program Manager Intern | UK Branch | [Apply](https://www.amazon.jobs/en/jobs/2439719/2024-program-manager-intern-12-month-internship) | | 12 months full time internship |
+| Tesla | Internship, Technical Program Management, Cell Engineering (Spring/Summer 2024) | Palo Alto, CA | [Apply](https://www.tesla.com/careers/search/job/internship-technical-program-management-cell-engineering-spring-summer-2024-206507) | | $50.00 per hr |
 | Adobe | Technical Program Manager Intern | San Jose, CA | [Apply](https://careers.adobe.com/us/en/job/ADOBUSR141472EXTERNALENUS/2024-Intern---Technical-Program-Manager)| Oct 10th | 0-2 Number of years of experience |
 | Walmart | Product Manager Intern | San Bruno, CA; Hoboken, NJ; Bentonville, AR| [Apply](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/San-Bruno-CA/XMLNAME-2024-Summer-Intern--US-Product--Product-Manager--Walmart-Intern_R-1650925-1?source=Job_Board_LinkedIn&_ccid=1693450769526t37rxdf9j) | | Expected graduation date between December 2024-August 2025  |
 | Tencent | Product Manager Intern - Pixel Lab | New York, NY| [Apply](https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-New-York/Product-Manager-Intern---Pixel-Lab_R101520?source=10100001) |  |  |
