@@ -5,7 +5,9 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- |
-| Spring Health | Product Management Intern | Remote | [Appply](https://boards.greenhouse.io/springhealth66/jobs/4315728005?gh_src=a8d055a25us&source=LinkedIn) | | $26 per hr |
+| Lucid | Intern, Product/Program Management | Newark, CA | [Apply](https://app.ripplematch.com/v2/public/job/3b47fe45/details?tl=5458cac4&fromPage=tracking_link) | | $42 - $58 per hr |
+| Arthex | Summer Associate - Product Management | Naples, FL | [Apply](https://careers.arthrex.com/job/Naples-Summer-Associate-Product-Management-FL-34108/1075664400/?utm_source=LINKEDIN&utm_medium=referrer) | | $35 per hr 
+| Spring Health | Product Management Intern | Remote | [Apply](https://boards.greenhouse.io/springhealth66/jobs/4315728005?gh_src=a8d055a25us&source=LinkedIn) | | $26 per hr |
 | DeShaw & Co | Technical Program Manager Intern | New York, NY | [Apply](https://www.deshaw.com/careers/systems-technical-program-manager-intern-new-york-summer-2024-4786) | | |
 | Ancestry | Product Manager Intern | Lehi, UT | [Apply](https://careers.ancestry.com/jobs/f3f46ea1-7550-4bb2-86ef-a9e3574752f7) | | |
 | Amazon | Program Manager Intern | UK Branch | [Apply](https://www.amazon.jobs/en/jobs/2439719/2024-program-manager-intern-12-month-internship) | | 12 months full time internship |
