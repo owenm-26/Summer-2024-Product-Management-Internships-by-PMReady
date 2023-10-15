@@ -5,6 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- |
+| HP | Personal Systems Product Management Internship | Spring, TX | [Apply](https://jobs.hp.com/jobdetails/19047767/personal-systems-product-management-internship-spring-tx/) | | $21 - $40 per hr|
 | Lucid | Intern, Product/Program Management | Newark, CA | [Apply](https://app.ripplematch.com/v2/public/job/3b47fe45/details?tl=5458cac4&fromPage=tracking_link) | | $42 - $58 per hr |
 | Arthex | Summer Associate - Product Management | Naples, FL | [Apply](https://careers.arthrex.com/job/Naples-Summer-Associate-Product-Management-FL-34108/1075664400/?utm_source=LINKEDIN&utm_medium=referrer) | | $35 per hr 
 | Spring Health | Product Management Intern | Remote | [Apply](https://boards.greenhouse.io/springhealth66/jobs/4315728005?gh_src=a8d055a25us&source=LinkedIn) | | $26 per hr |
