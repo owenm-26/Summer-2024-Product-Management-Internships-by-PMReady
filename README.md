@@ -10,7 +10,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 | Hewlett Packard | Product Management Intern | Spring, TX; Alpharetta, GA; Bloomington, MI; Andover, MA; Durham, NC; Ft. Collins, CO | [Apply](https://careers.hpe.com/us/en/job/1160956/Product-Management-Intern?utm_source=linkedin) | | $28.50 - $34.50 per hr|
 | HP | Personal Systems Product Management Internship | Spring, TX | [Apply](https://jobs.hp.com/jobdetails/19047767/personal-systems-product-management-internship-spring-tx/) | Sept 12| $21 - $40 per hr|
 | Lucid | Intern, Product/Program Management | Newark, CA | [Apply](https://app.ripplematch.com/v2/public/job/3b47fe45/details?tl=5458cac4&fromPage=tracking_link) | | $42 - $58 per hr |
-| Arthex | Summer Associate - Product Management | Naples, FL | [Apply](https://careers.arthrex.com/job/Naples-Summer-Associate-Product-Management-FL-34108/1075664400/?utm_source=LINKEDIN&utm_medium=referrer) | | $35 per hr 
+| Arthex | Summer Associate - Product Management | Naples, FL | [Apply](https://careers.arthrex.com/job/Naples-Summer-Associate-Product-Management-FL-34108/1075664400/?utm_source=LINKEDIN&utm_medium=referrer) | Oct 12 | $35 per hr 
 | Spring Health | Product Management Intern | Remote | [Apply](https://boards.greenhouse.io/springhealth66/jobs/4315728005?gh_src=a8d055a25us&source=LinkedIn) | | $26 per hr |
 | DeShaw & Co | Technical Program Manager Intern | New York, NY | [Apply](https://www.deshaw.com/careers/systems-technical-program-manager-intern-new-york-summer-2024-4786) | | |
 | Ancestry | Product Manager Intern | Lehi, UT | [Apply](https://careers.ancestry.com/jobs/f3f46ea1-7550-4bb2-86ef-a9e3574752f7) | | |
