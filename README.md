@@ -6,9 +6,9 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
 | Nike | Product Management Graduate Intern | Beaverton, OR | [Apply](https://jobs.nike.com/job/R-10724?source=BY_LinkedIn_OrganicFeed&utm_source=BY_LinkedIn_OrganicFeed) | | |
-| Capitol One | Product Development Intern - Summer 2024 | Plano, TX | [Apply]( https://www.capitalonecareers.com/job/-/-/234/55573621168?p_sid=x_gFKEb&p_uid=rgcjKnkRUy&source=rd_linkedin_job_posting_tm&ss=paid&utm_campaign=product_managers_toh_23&utm_content=pj_board&utm_medium=jobad&utm_source=linkedin+slotted&dclid=CLbfx8na-oEDFSQbaAgd8UoCEA) | | |
+| Capitol One | Product Development Intern - Summer 2024 | Plano, TX | [Apply]( https://www.capitalonecareers.com/job/-/-/234/55573621168?p_sid=x_gFKEb&p_uid=rgcjKnkRUy&source=rd_linkedin_job_posting_tm&ss=paid&utm_campaign=product_managers_toh_23&utm_content=pj_board&utm_medium=jobad&utm_source=linkedin+slotted&dclid=CLbfx8na-oEDFSQbaAgd8UoCEA) | Oct 10 | |
 | Hewlett Packard | Product Management Intern | Spring, TX; Alpharetta, GA; Bloomington, MI; Andover, MA; Durham, NC; Ft. Collins, CO | [Apply](https://careers.hpe.com/us/en/job/1160956/Product-Management-Intern?utm_source=linkedin) | | $28.50 - $34.50 per hr|
-| HP | Personal Systems Product Management Internship | Spring, TX | [Apply](https://jobs.hp.com/jobdetails/19047767/personal-systems-product-management-internship-spring-tx/) | | $21 - $40 per hr|
+| HP | Personal Systems Product Management Internship | Spring, TX | [Apply](https://jobs.hp.com/jobdetails/19047767/personal-systems-product-management-internship-spring-tx/) | Sept 12| $21 - $40 per hr|
 | Lucid | Intern, Product/Program Management | Newark, CA | [Apply](https://app.ripplematch.com/v2/public/job/3b47fe45/details?tl=5458cac4&fromPage=tracking_link) | | $42 - $58 per hr |
 | Arthex | Summer Associate - Product Management | Naples, FL | [Apply](https://careers.arthrex.com/job/Naples-Summer-Associate-Product-Management-FL-34108/1075664400/?utm_source=LINKEDIN&utm_medium=referrer) | | $35 per hr 
 | Spring Health | Product Management Intern | Remote | [Apply](https://boards.greenhouse.io/springhealth66/jobs/4315728005?gh_src=a8d055a25us&source=LinkedIn) | | $26 per hr |
