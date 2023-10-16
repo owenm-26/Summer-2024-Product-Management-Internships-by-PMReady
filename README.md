@@ -4,7 +4,8 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 ![Hello](https://github.com/owenm-26/Summer-2024-Product-Management-Internships-by-PMReady/assets/75864321/7826d9ab-c844-429e-9981-18dc224eeb13)
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
-| ------- | -------- | ------ | ----- | ----- |----- |
+| ------- | -------- | ------ | ----- | ----- |----- | 
+| Capitol One | Product Development Intern - Summer 2024 | Plano, TX | [Apply]( https://www.capitalonecareers.com/job/-/-/234/55573621168?p_sid=x_gFKEb&p_uid=rgcjKnkRUy&source=rd_linkedin_job_posting_tm&ss=paid&utm_campaign=product_managers_toh_23&utm_content=pj_board&utm_medium=jobad&utm_source=linkedin+slotted&dclid=CLbfx8na-oEDFSQbaAgd8UoCEA) | | |
 | Hewlett Packard | Product Management Intern | Spring, TX; Alpharetta, GA; Bloomington, MI; Andover, MA; Durham, NC; Ft. Collins, CO | [Apply](https://careers.hpe.com/us/en/job/1160956/Product-Management-Intern?utm_source=linkedin) | | $28.50 - $34.50 per hr|
 | HP | Personal Systems Product Management Internship | Spring, TX | [Apply](https://jobs.hp.com/jobdetails/19047767/personal-systems-product-management-internship-spring-tx/) | | $21 - $40 per hr|
 | Lucid | Intern, Product/Program Management | Newark, CA | [Apply](https://app.ripplematch.com/v2/public/job/3b47fe45/details?tl=5458cac4&fromPage=tracking_link) | | $42 - $58 per hr |
