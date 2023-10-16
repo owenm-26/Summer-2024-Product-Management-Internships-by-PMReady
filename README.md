@@ -5,6 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- |
+| Hewlett Packard | Product Management Intern | Spring, TX; Alpharetta, GA; Bloomington, MI; Andover, MA; Durham, NC; Ft. Collins, CO | [Apply](https://careers.hpe.com/us/en/job/1160956/Product-Management-Intern?utm_source=linkedin) | | $28.50 - $34.50 per hr|
 | HP | Personal Systems Product Management Internship | Spring, TX | [Apply](https://jobs.hp.com/jobdetails/19047767/personal-systems-product-management-internship-spring-tx/) | | $21 - $40 per hr|
 | Lucid | Intern, Product/Program Management | Newark, CA | [Apply](https://app.ripplematch.com/v2/public/job/3b47fe45/details?tl=5458cac4&fromPage=tracking_link) | | $42 - $58 per hr |
 | Arthex | Summer Associate - Product Management | Naples, FL | [Apply](https://careers.arthrex.com/job/Naples-Summer-Associate-Product-Management-FL-34108/1075664400/?utm_source=LINKEDIN&utm_medium=referrer) | | $35 per hr 
