@@ -5,6 +5,9 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+| Convestro | Product Management Intern | Pittsburgh, PA | [Apply](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pittsburgh-PA/Product-Management-Intern_JR-2023-02784) | Oct 5 | |
+| Shure | Product Management Intern | | [Apply](https://careers-shure.icims.com/jobs/3417/product-management-intern/job?mode=job&iis=Linkedin&iisn=LinkedIn&mobile=false&width=1102&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | | Hybrid Working |
+| Walmart | 2024 Summer MBA Intern: Walmart Connect Product Management | San Bruno, CA | [Apply](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/San-Bruno-CA/XMLNAME-2024-Summer-MBA-Intern--Walmart-Connect-Product-Management_R-1684764?source=Job_Board_LinkedIn&_ccid=1693450769526t37rxdf9j) | Oct 12th | $47 per hr | 
 | Nike | Product Management Graduate Intern | Beaverton, OR | [Apply](https://jobs.nike.com/job/R-10724?source=BY_LinkedIn_OrganicFeed&utm_source=BY_LinkedIn_OrganicFeed) | | |
 | Capitol One | Product Development Intern - Summer 2024 | Plano, TX | [Apply]( https://www.capitalonecareers.com/job/-/-/234/55573621168?p_sid=x_gFKEb&p_uid=rgcjKnkRUy&source=rd_linkedin_job_posting_tm&ss=paid&utm_campaign=product_managers_toh_23&utm_content=pj_board&utm_medium=jobad&utm_source=linkedin+slotted&dclid=CLbfx8na-oEDFSQbaAgd8UoCEA) | Oct 10 | |
 | Hewlett Packard | Product Management Intern | Spring, TX; Alpharetta, GA; Bloomington, MI; Andover, MA; Durham, NC; Ft. Collins, CO | [Apply](https://careers.hpe.com/us/en/job/1160956/Product-Management-Intern?utm_source=linkedin) | | $28.50 - $34.50 per hr|
