@@ -5,6 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+| Shark Ninja | (Spring) Product Development Co-Op: January to June 2024 | Needham,MA | [Apply](https://www.sharkninja.com/careers-application/?gh_jid=4291325006&gh_src=371f37716us) | | |
 | Pitney Bowes | Product Management Intern | 8 locations | [Apply](https://careers.pitneybowes.com/global/en/job/R15198/Product-Management-Intern-Product-Led-Growth-Summer-2024?rx_job=R15198_1001&rx_medium=post&rx_paid=0&rx_r=none&rx_source=linkedinll&rx_ts=20231017T141604Z&rx_viewer=e026373747a911eeb34bed222a63504fc89b698dc9364944aa9b9ab9dc9ae52b) | | $24 per hr|
 | Micron | Technical Program Manager Intern | Boise, Idaho | [Apply](https://micron.eightfold.ai/careers/job/17881917?domain=micron.com&utm_source=linkedin&src=JB-12600) | | |
 | Capital One | Product Development Intern | Mclean, VI | [Apply](https://www.capitalonecareers.com/job/-/-/234/55573621168?p_sid=x_gFKEb&p_uid=36vB2xQeNJ&source=rd_linkedin_job_posting_tm&ss=paid&utm_campaign=product_managers_toh_23&utm_content=pj_board&utm_medium=jobad&utm_source=linkedin+slotted&dclid=CK3ZgNjy_YEDFagZaAgdNnkOvw) | Oct 10 | |
