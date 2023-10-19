@@ -5,7 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
-<<<<<<< HEAD
+| Bose | Software Engineering Program Manager | Framingham, MA | [Apply](https://boseallaboutme.wd1.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-Engineering-Program-Manager_R25583?companyApplyUrl=%2526Source%253DLinkedIn)| Oct 3rd | Full-Time Intern |
 | Hewlett Packard | Product Management Intern | Multiple Location | [Apply](https://careers.hpe.com/us/en/job/1160956/Product-Management-Intern?utm_source=linkedin)|  | Full-Time Intern |
 | Shark Ninja | (Spring) Product Development Co-Op: January to June 2024 | Needham,MA | [Apply](https://www.sharkninja.com/careers-application/?gh_jid=4291325006&gh_src=371f37716us) | | |
 | Pitney Bowes | Product Management Intern | 8 locations | [Apply](https://careers.pitneybowes.com/global/en/job/R15198/Product-Management-Intern-Product-Led-Growth-Summer-2024?rx_job=R15198_1001&rx_medium=post&rx_paid=0&rx_r=none&rx_source=linkedinll&rx_ts=20231017T141604Z&rx_viewer=e026373747a911eeb34bed222a63504fc89b698dc9364944aa9b9ab9dc9ae52b) | | $24 per hr|
