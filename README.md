@@ -5,6 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+| Dropbox | Product Manager Intern  | Remote (US) | [Apply](https://jobs.dropbox.com/listing/5434573?gh_src=aonhf1)| Deadline to apply: November 3| $9k/month |
 | Bose | Software Engineering Program Manager | Framingham, MA | [Apply](https://boseallaboutme.wd1.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-Engineering-Program-Manager_R25583?companyApplyUrl=%2526Source%253DLinkedIn)| Oct 3rd | Full-Time Intern |
 | Hewlett Packard | Product Management Intern | Multiple Location | [Apply](https://careers.hpe.com/us/en/job/1160956/Product-Management-Intern?utm_source=linkedin)|  | Full-Time Intern |
 | Shark Ninja | (Spring) Product Development Co-Op: January to June 2024 | Needham,MA | [Apply](https://www.sharkninja.com/careers-application/?gh_jid=4291325006&gh_src=371f37716us) | | |
