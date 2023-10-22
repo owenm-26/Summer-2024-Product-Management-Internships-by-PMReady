@@ -5,6 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+| Rockwell Automation | Intern, Product Management |  Chelmsford, MA | [Apply](https://jobs.rockwellautomation.com/job/19311836/intern-product-management-chelmsford-ma/?Codes=ILINK)|  | Full-Time Associate |
 | Blackhawk Network | Product Management Intern | Remote (US) | [Apply](https://careers-blackhawknetwork.icims.com/jobs/20159/product-management-intern/job?mode=job&iis=Job+Board&iisn=LinkedIn)|  | $25/hr - $30/hr |
 | Dropbox | Product Manager Intern  | Remote (US) | [Apply](https://jobs.dropbox.com/listing/5434573?gh_src=aonhf1)| Deadline to apply: November 3| $9k/month |
 | Bose | Software Engineering Program Manager | Framingham, MA | [Apply](https://boseallaboutme.wd1.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-Engineering-Program-Manager_R25583?companyApplyUrl=%2526Source%253DLinkedIn)| Oct 3rd | Full-Time Intern |
