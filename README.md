@@ -5,6 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+| Redhat | Product Manager Intern | Raleigh, NC | [Apply](https://us-redhat.icims.com/jobs/100549/product-manager-intern/job?iis=Job%2BBoard&hub=7&%26iisn=LinkedIn%2BPosting&%3Fmode=job&iisn=LinkedIn%2BPosting&%26%3Fmode=job&%26iis=Job%2BBoard&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Oct 19 | |
 | Adobe | Associate Product Manager, Ethical Innovation | San Jose | [Apply](https://careers.adobe.com/us/en/job/ADOBUSR141268EXTERNALENUS/2024-Intern-Associate-Product-Manager-Ethical-Innovation?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn)| Oct 27th | $38/hr - $51/hr |
 | Autodesk | Intern, Technical Program Manager | California (Remote) | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Technical-Program-Manager--Summer-2024-_23WD72391-1?src=JB-10065&source=LinkedIn)|  | Full-Time Intern |
 | Rockwell Automation | Intern, Product Management |  Chelmsford, MA | [Apply](https://jobs.rockwellautomation.com/job/19311836/intern-product-management-chelmsford-ma/?Codes=ILINK)|  | Full-Time Associate |
