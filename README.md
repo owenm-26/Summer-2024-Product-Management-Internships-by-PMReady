@@ -5,6 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+| Atmosfy | Product Manager Intern | Remote (US) | [Apply](https://www.linkedin.com/jobs/search/?currentJobId=3746915492&keywords=Product%20Manager%20Intern&origin=JOB_COLLECTION_PAGE_SEARCH_BUTTON&refresh=true)|  | $40/hr - $50/hr |
 | Coinbase | Product Manager Intern (IT Operations) | Washington, DC | [Apply](https://www.coinbase.com/careers/positions/5455654?gh_jid=5455654&gh_src=20687b321us)|  | $35/hr |
 | Rocket Mortgage | Product Manager Intern | Detroit, MI | [Apply](https://www.applytracking.com/x.aspx?method=direct&type=apply&board=D92FCD45-1292-4AE2-B555-D7A273418B42&Job=R-075540&ClientCode=15280&mode=Job+Board&iisn=LinkedIn)| OCt 24th | Full-Time Intern |
 | Workday | MBA Product Manager Intern | Atlanta, GA | [Apply](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/MBA-Product-Manager-Intern_JR-81960-1?source=website_linkedin)| Oct 2nd | $47,000/yr - $115,000/yr |
