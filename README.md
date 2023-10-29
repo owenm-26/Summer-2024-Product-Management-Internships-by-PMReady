@@ -5,6 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+| Oracle | OVIP Program Manager Intern | Washington, DC (Remote) | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/215979?utm_medium=jobboard&utm_source=LinkedIn)| | $30/hr |
 | Okta | Product Manager Intern, Customer Identity Cloud | United States | [Apply](https://www.okta.com/company/careers/opportunity/5364066?gh_jid=5364066&gh_src=7j0um41)|  |  |
 | Smartsheet | Product Manager Intern, Home Team | Remote (US) | [Apply](https://boards.greenhouse.io/smartsheet/jobs/5467353?source=LinkedIn)| Oct 30th | $30/hr |
 | Atmosfy | Product Manager Intern | Remote (US) | [Apply](https://www.linkedin.com/jobs/search/?currentJobId=3746915492&keywords=Product%20Manager%20Intern&origin=JOB_COLLECTION_PAGE_SEARCH_BUTTON&refresh=true)|  | $40/hr - $50/hr |
