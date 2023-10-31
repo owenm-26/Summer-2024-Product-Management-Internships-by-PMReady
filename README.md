@@ -5,6 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+| Oracle | Database Technical Program & Product Manager Intern | United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/216197)| Oct 17th | Visa / work permit sponsorship is not available for this position |
 | Comcast | Tech Intern - Technical Program Manager | Philadelphia, PA | [Apply](https://comcast.contacthr.com/127847267)|  | $32/hr |
 | Oracle | OVIP Program Manager Intern | Washington, DC (Remote) | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/215979?utm_medium=jobboard&utm_source=LinkedIn)| | $30/hr |
 | Okta | Product Manager Intern, Customer Identity Cloud | United States | [Apply](https://www.okta.com/company/careers/opportunity/5364066?gh_jid=5364066&gh_src=7j0um41)|  |  |
