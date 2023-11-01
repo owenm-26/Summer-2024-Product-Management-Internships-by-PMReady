@@ -5,6 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+| Adobe | Associate Product Manager Intern, Ethical Innovation | San Jose, CA & San Francisco, CA | [Apply](https://careers.adobe.com/us/en/job/ADOBUSR141268EXTERNALENUS/2024-Intern-Associate-Product-Manager-Ethical-Innovation)| Oct 27th | $38 - $51/hr |
 | Oracle | Database Technical Program & Product Manager Intern | United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/216197)| Oct 17th | Visa / work permit sponsorship is not available for this position |
 | Comcast | Tech Intern - Technical Program Manager | Philadelphia, PA | [Apply](https://comcast.contacthr.com/127847267)|  | $32/hr |
 | Oracle | OVIP Program Manager Intern | Washington, DC (Remote) | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/215979?utm_medium=jobboard&utm_source=LinkedIn)| | $30/hr |
