@@ -5,6 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+| Autodesk | Intern, Product Manager - Fusion 360 (Summer Term) | USA, Remote | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Product-Manager---Fusion-360--Summer-Term-_23WD72470-1?src=JB-10065&source=LinkedIn)| Oct 30th | $41k - $81k |
 | Adobe | 2024 Intern - Data Governance Product Manager | Seattle, WA;  Lehi, UT, San Jose, CA | [Apply](https://careers.adobe.com/us/en/job/ADOBUSR141490EXTERNALENUS/2024-Intern-Data-Governance-Product-Manager)| Oct 9th | $38 - $51/hr |
 | Adobe | Associate Product Manager Intern, Ethical Innovation | San Jose, CA & San Francisco, CA | [Apply](https://careers.adobe.com/us/en/job/ADOBUSR141268EXTERNALENUS/2024-Intern-Associate-Product-Manager-Ethical-Innovation)| Oct 27th | $38 - $51/hr |
 | Oracle | Database Technical Program & Product Manager Intern | United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/216197)| Oct 17th | Visa / work permit sponsorship is not available for this position |
