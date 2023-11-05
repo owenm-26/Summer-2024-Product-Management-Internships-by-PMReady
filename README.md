@@ -5,6 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+| Workday | MBA Product Manager Intern | Atlanta, GA | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-GA-Atlanta/MBA-Product-Manager-Intern_JR-81960?source=website_linkedin)| | $49k - $115k |
 | Visa | Product Manager, MBA Intern - 2024 | Ashburn, VA | [Apply](https://jobs.smartrecruiters.com/Visa/743999943263751-product-manager-mba-intern-2024?source=LinkedIn)|  | $46/hr |
 | Autodesk | Intern, Product Manager - Fusion 360 (Summer Term) | USA, Remote | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Product-Manager---Fusion-360--Summer-Term-_23WD72470-1?src=JB-10065&source=LinkedIn)| Oct 30th | $41k - $81k |
 | Adobe | 2024 Intern - Data Governance Product Manager | Seattle, WA;  Lehi, UT, San Jose, CA | [Apply](https://careers.adobe.com/us/en/job/ADOBUSR141490EXTERNALENUS/2024-Intern-Data-Governance-Product-Manager)| Oct 9th | $38 - $51/hr |
