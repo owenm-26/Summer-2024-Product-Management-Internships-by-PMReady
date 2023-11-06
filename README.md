@@ -5,6 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+| Redhat | Product Manager Internship | Raleigh, NC | [Apply](https://us-redhat.icims.com/jobs/100720/product-manager-internship/job?iis=Job%2BBoard&hub=7&%26iisn=LinkedIn%2BPosting&%3Fmode=job&iisn=LinkedIn%2BPosting&%26%3Fmode=job&%26iis=Job%2BBoard&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Nov 3rd |  |
 | Workday | MBA Product Manager Intern | Atlanta, GA | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-GA-Atlanta/MBA-Product-Manager-Intern_JR-81960?source=website_linkedin)| | $49k - $115k |
 | Visa | Product Manager, MBA Intern - 2024 | Ashburn, VA | [Apply](https://jobs.smartrecruiters.com/Visa/743999943263751-product-manager-mba-intern-2024?source=LinkedIn)|  | $46/hr |
 | Autodesk | Intern, Product Manager - Fusion 360 (Summer Term) | USA, Remote | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Product-Manager---Fusion-360--Summer-Term-_23WD72470-1?src=JB-10065&source=LinkedIn)| Oct 30th | $41k - $81k |
