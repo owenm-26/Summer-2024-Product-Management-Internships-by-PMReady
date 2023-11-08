@@ -5,6 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+| Crusoe | University | Intern - Associate Product Manager | 2024 | San Francisco, CA | [Apply](https://jobs.ashbyhq.com/Crusoe/b8e1c5cb-87b2-4f84-baac-2042ef0b04ab)|  | Hybrid Working |
 | Branch | Summer 2024 Product Manager Intern | Palo Alto, CA | [Apply](https://boards.greenhouse.io/embed/job_app?token=5436135&gh_src=8b1854131&source=LinkedIn)| | $42 - $45/hr |
 | Redhat | Product Manager Internship | Raleigh, NC | [Apply](https://us-redhat.icims.com/jobs/100720/product-manager-internship/job?iis=Job%2BBoard&hub=7&%26iisn=LinkedIn%2BPosting&%3Fmode=job&iisn=LinkedIn%2BPosting&%26%3Fmode=job&%26iis=Job%2BBoard&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Nov 3rd |  |
 | Workday | MBA Product Manager Intern | Atlanta, GA | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-GA-Atlanta/MBA-Product-Manager-Intern_JR-81960?source=website_linkedin)| | $49k - $115k |
