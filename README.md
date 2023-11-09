@@ -5,6 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+| Electronic Arts | Product Manager Intern (Apex Legends) | Los Angeles, CA | [Apply](https://ea.gr8people.com/jobs/180110/product-manager-intern-apex-legends?sid=4)| | Remote Working |
 | Graco | Digital Product Manager Intern | Minneapolis, MI | [Apply](https://graco.wd5.myworkdayjobs.com/Graco_Careers/job/Minneapolis-Minnesota-USA-Tech-Center/Digital-Product-Manager-Intern_R0016613?source=Linkedin)| | Machinery Manufacturing Industry |
 | Crusoe | University | Intern - Associate Product Manager | 2024 | San Francisco, CA | [Apply](https://jobs.ashbyhq.com/Crusoe/b8e1c5cb-87b2-4f84-baac-2042ef0b04ab)|  | Hybrid Working |
 | Branch | Summer 2024 Product Manager Intern | Palo Alto, CA | [Apply](https://boards.greenhouse.io/embed/job_app?token=5436135&gh_src=8b1854131&source=LinkedIn)| | $42 - $45/hr |
