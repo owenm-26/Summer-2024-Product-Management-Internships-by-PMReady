@@ -5,6 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+| Centerfield | Product Manager Intern - Summer 2024 | Los Angeles, CA | [Apply](https://jobs.lever.co/centerfield/4b122bcc-d439-4df7-ac13-60d1c4294fd8?source=6)|  | OnSite Working |
 | Watts | Product Manager Summer Intern | North Andover, MA | [Apply](https://wattswater.wd5.myworkdayjobs.com/External/job/North-Andover-MA/Product-Manager-Summer-Intern_10012481?source=Linkedin)| | Hybrid Working |
 | BCG | Product Manager Intern - BCG X | Los Angeles, CA; New York, NY | [Apply](https://careers.bcg.com/job/BCG1US10061558EXTERNALENUS/Product-Manager-Intern-BCG-X?utm_source=linkedin&utm_medium=phenom-feeds)| | $171k |
 | Electronic Arts | Product Manager Intern (Apex Legends) | Los Angeles, CA | [Apply](https://ea.gr8people.com/jobs/180110/product-manager-intern-apex-legends?sid=4)| | Remote Working |
