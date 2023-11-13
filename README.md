@@ -5,6 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+| Nvidia | Hardware Program Manager Intern - Spring 2024 | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Program-Manager-Intern---Spring-2024_JR1973753?source=jobboardlinkedin)| Nov 7th |  |
 | Micron | Intern-SSD Technical Program Manager | Longmont, CO | [Apply](https://micron.eightfold.ai/careers/job/18595526?src=JB-12600&domain=micron.com&utm_source=linkedin)| | $29.81 - $44.30/hr |
 | Solar Turbines | Product Manager Intern | San Diego, CA | [Apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/Product-Manager-Intern_R0000233385-1?source=LinkedIn)| Nov 10th |  |
 | Centerfield | Product Manager Intern - Summer 2024 | Los Angeles, CA | [Apply](https://jobs.lever.co/centerfield/4b122bcc-d439-4df7-ac13-60d1c4294fd8?source=6)|  | OnSite Working |
