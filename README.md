@@ -5,6 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+| Solar Turbines | Product Manager Intern | San Diego, CA | [Apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/Product-Manager-Intern_R0000233385-1?source=LinkedIn)| Nov 10th |  |
 | Centerfield | Product Manager Intern - Summer 2024 | Los Angeles, CA | [Apply](https://jobs.lever.co/centerfield/4b122bcc-d439-4df7-ac13-60d1c4294fd8?source=6)|  | OnSite Working |
 | Watts | Product Manager Summer Intern | North Andover, MA | [Apply](https://wattswater.wd5.myworkdayjobs.com/External/job/North-Andover-MA/Product-Manager-Summer-Intern_10012481?source=Linkedin)| | Hybrid Working |
 | BCG | Product Manager Intern - BCG X | Los Angeles, CA; New York, NY | [Apply](https://careers.bcg.com/job/BCG1US10061558EXTERNALENUS/Product-Manager-Intern-BCG-X?utm_source=linkedin&utm_medium=phenom-feeds)| | $171k |
