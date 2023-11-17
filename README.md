@@ -5,6 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+| Paramount | Project Management Intern - Technical & Non-Technical | New York City, NY; Los Angelos, CA; Remote, USA | [Apply](https://careers.paramount.com/job/New-York-Project-Management-Intern-Technical-&-Non-Technical-%28Summer-2024-NYC%2C-LA-or-Remote%29-NY-10036/1082273700/?feedId=340900&utm_source=LinkedInJobPostings&utm_campaign=Paramount_LinkedIn)| |  $22 per hr |
 |  L3Harris Technologies  | Program Management Intern  | Rochester, NY | [Apply](https://careers.l3harris.com/job/-/-/4832/54994207792?src=SNS-10240 )| |  |
 | Co-pilot  | Associate Product Manager Intern - Spring/Summer 2024 | New York, NY | [Apply](https://jobs.ashbyhq.com/copilot/6a962ad3-d2a4-44c3-97cd-6e5687da4846/application?utm_source=GgwqQKYbPW )|   |  |
 | Coinbase | Summer 2024 - Program Manager Intern (Operations Excellence) | Location | [Apply](https://www.coinbase.com/careers/positions/5455644?gh_jid=5455644&gh_src=20687b321us)|  | $30/hr |
