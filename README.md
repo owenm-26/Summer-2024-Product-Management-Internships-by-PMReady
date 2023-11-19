@@ -5,8 +5,8 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
-| Comcast | Product Management MBA Intern (AIM) | New York, NY | [Apply](https://jobs.comcast.com/jobs/description/regular?external_or_internal=External&job_id=R375017&source=linkedinsponsjob_at  
-)|  | $53 per hr |
+| Intuitive | Genesis Product Manager Intern | SunnyVale, CA; Remote, USA | [Apply](https://careers.intuitive.com/en/jobs/743999944911833/JOB5805/genesis-product-manager-intern/?source=linkedin )|   | $93k - $105k  |
+| Comcast | Product Management MBA Intern (AIM) | New York, NY | [Apply](https://jobs.comcast.com/jobs/description/regular?external_or_internal=External&job_id=R375017&source=linkedinsponsjob_at)|  | $53 per hr |
 | Paramount | Project Management Intern - Technical & Non-Technical | New York City, NY; Los Angelos, CA; Remote, USA | [Apply](https://careers.paramount.com/job/New-York-Project-Management-Intern-Technical-&-Non-Technical-%28Summer-2024-NYC%2C-LA-or-Remote%29-NY-10036/1082273700/?feedId=340900&utm_source=LinkedInJobPostings&utm_campaign=Paramount_LinkedIn)| |  $22 per hr |
 |  L3Harris Technologies  | Program Management Intern  | Rochester, NY | [Apply](https://careers.l3harris.com/job/-/-/4832/54994207792?src=SNS-10240 )| |  |
 | Co-pilot  | Associate Product Manager Intern - Spring/Summer 2024 | New York, NY | [Apply](https://jobs.ashbyhq.com/copilot/6a962ad3-d2a4-44c3-97cd-6e5687da4846/application?utm_source=GgwqQKYbPW )|   |  |
