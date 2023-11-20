@@ -5,6 +5,8 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+
+| Duolingo | Product Manager, Intern (MBA) | Pittsburgh, PA | [Apply](https://boards.greenhouse.io/duolingo/jobs/6936336002?gh_src=81b1e41f2us&source=LinkedIn)| | Application Deadline: December 5, 2023 | Interviews to be conducted in January 2024 |
 | TikTok | Product Manager MBA Intern (Generative AI) - 2024 Summer (MBA) | San Francisco, CA | [Apply](https://careers.tiktok.com/position/7283645131893803325/detail?spread=5MWH5CQ)| Nov 14th  | $55 per hr |
 | Intuitive | Genesis Product Manager Intern | SunnyVale, CA; Remote, USA | [Apply](https://careers.intuitive.com/en/jobs/743999944911833/JOB5805/genesis-product-manager-intern/?source=linkedin )|   | $93k - $105k  |
 | Comcast | Product Management MBA Intern (AIM) | New York, NY | [Apply](https://jobs.comcast.com/jobs/description/regular?external_or_internal=External&job_id=R375017&source=linkedinsponsjob_at)|  | $53 per hr |
