@@ -5,6 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+| TikTok | Product Manager MBA Intern (Generative AI) - 2024 Summer (MBA) | San Francisco, CA | [Apply](https://careers.tiktok.com/position/7283645131893803325/detail?spread=5MWH5CQ)| Nov 14th  | $55 per hr |
 | Intuitive | Genesis Product Manager Intern | SunnyVale, CA; Remote, USA | [Apply](https://careers.intuitive.com/en/jobs/743999944911833/JOB5805/genesis-product-manager-intern/?source=linkedin )|   | $93k - $105k  |
 | Comcast | Product Management MBA Intern (AIM) | New York, NY | [Apply](https://jobs.comcast.com/jobs/description/regular?external_or_internal=External&job_id=R375017&source=linkedinsponsjob_at)|  | $53 per hr |
 | Paramount | Project Management Intern - Technical & Non-Technical | New York City, NY; Los Angelos, CA; Remote, USA | [Apply](https://careers.paramount.com/job/New-York-Project-Management-Intern-Technical-&-Non-Technical-%28Summer-2024-NYC%2C-LA-or-Remote%29-NY-10036/1082273700/?feedId=340900&utm_source=LinkedInJobPostings&utm_campaign=Paramount_LinkedIn)| |  $22 per hr |
