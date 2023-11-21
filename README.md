@@ -5,6 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+| Ancestry | Product Manager – Know Your Pet DNA, Summer Intern | Lehi, UT | [Apply](https://careers.ancestry.com/jobs/bfdf7973-fbea-4ee4-bf32-63e09d0826a6?src=LinkedIn&source=linkedin&utm_source=linkedin)| |  |
 | Visa | Product Manager, MBA Intern - 2024 | Ashburn, VA | [Apply](https://jobs.smartrecruiters.com/Visa/743999943263751-product-manager-mba-intern-2024?source=LinkedIn)| | $46 per hr |
 | Duolingo | Product Manager, Intern (MBA) | Pittsburgh, PA | [Apply](https://boards.greenhouse.io/duolingo/jobs/6936336002?gh_src=81b1e41f2us&source=LinkedIn)| | Application Deadline: December 5, 2023 | Interviews to be conducted in January 2024 |
 | TikTok | Product Manager MBA Intern (Generative AI) - 2024 Summer (MBA) | San Francisco, CA | [Apply](https://careers.tiktok.com/position/7283645131893803325/detail?spread=5MWH5CQ)| Nov 14th  | $55 per hr |
