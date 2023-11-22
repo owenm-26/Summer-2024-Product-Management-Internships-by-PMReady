@@ -5,6 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+| SalesForce | Summer 2024 Intern - Program Manager Intern, Heroku | San Francisco, CA | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2024-Intern---Program-Manager-Intern--Heroku_JR226911-1?source=LinkedIn_Jobs)|  | $25 per hr - $32 per hr |
 | Ancestry | Product Manager – Know Your Pet DNA, Summer Intern | Lehi, UT | [Apply](https://careers.ancestry.com/jobs/bfdf7973-fbea-4ee4-bf32-63e09d0826a6?src=LinkedIn&source=linkedin&utm_source=linkedin)| |  |
 | Visa | Product Manager, MBA Intern - 2024 | Ashburn, VA | [Apply](https://jobs.smartrecruiters.com/Visa/743999943263751-product-manager-mba-intern-2024?source=LinkedIn)| | $46 per hr |
 | Duolingo | Product Manager, Intern (MBA) | Pittsburgh, PA | [Apply](https://boards.greenhouse.io/duolingo/jobs/6936336002?gh_src=81b1e41f2us&source=LinkedIn)| | Application Deadline: December 5, 2023 | Interviews to be conducted in January 2024 |
