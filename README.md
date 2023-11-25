@@ -5,6 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+| Micron | DRAM Product Development Quality Intern | Boise, ID | [Apply](https://micron.eightfold.ai/careers/job/17823018?src=JB-12600&domain=micron.com&utm_source=linkedin) | | |
 | Ambi Robotics | Product Management Intern, BS (Summer 2024) | Berkeley, CA | [Apply](https://jobs.lever.co/ambirobotics/278c2b3f-fa24-406c-a56f-c5aa9cc57e90)| |  |
 | Klein Tools | Product Management Intern | Lincolnshire, IL | [Apply](https://us232.dayforcehcm.com/CandidatePortal/en-US/zahgroup/Posting/View/4125) |  |  |
 | dormakaba | Product Management Intern | Lexington, KY | [Apply](https://jobs.dormakaba.com/job/Lexington-Product-Management-Intern-KY-40511/1006782701/?feedId=314001&utm_source=LILimitedListings&utm_campaign=dormakaba_LIListings) |  | $18 per hr - $22 per hr  |
