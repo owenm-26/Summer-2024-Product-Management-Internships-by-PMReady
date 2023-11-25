@@ -5,6 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+| Klein Tools | Product Management Intern | Lincolnshire, IL | [Apply](https://us232.dayforcehcm.com/CandidatePortal/en-US/zahgroup/Posting/View/4125) |  |  |
 | dormakaba | Product Management Intern | Lexington, KY | [Apply](https://jobs.dormakaba.com/job/Lexington-Product-Management-Intern-KY-40511/1006782701/?feedId=314001&utm_source=LILimitedListings&utm_campaign=dormakaba_LIListings) |  | $18 per hr - $22 per hr  |
 | Visa | Product Management Intern – Visa Transaction Controls | San Francisco, CA | [Apply](https://jobs.smartrecruiters.com/Visa/743999943273303-product-management-intern-visa-transaction-controls?source=LinkedIn) |  | $21 per hr - $26 per hr |
 | SalesForce | Summer 2024 Intern - Program Manager Intern, Heroku | San Francisco, CA | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2024-Intern---Program-Manager-Intern--Heroku_JR226911-1?source=LinkedIn_Jobs)|  | $25 per hr - $32 per hr |
