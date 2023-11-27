@@ -5,6 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+| HashiCorp | Product Manager Intern (Undergraduate) | Remote, US | [Apply](https://www.hashicorp.com/career/5462848?gh_src=a8bc2ad21)| |  |
 | Pioneers Education | Product Manager Intern (MBA Internship) | New York, Hybrid | [Apply](https://app.pioneers-education.com/jobs/artistongo--product-management-mba-intern) | | $25 per hr - $30 per hr |
 | Red Oak Technologies | Product Manager Intern | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/3752875483)| | $20 per hr - $24 per hr |
 | Company | Project Management Undergraduate Summer Intern | Location | Apply| Dated Posted | Notes |
