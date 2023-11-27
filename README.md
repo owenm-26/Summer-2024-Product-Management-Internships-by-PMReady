@@ -5,6 +5,8 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+| Red Oak Technologies | Product Manager Intern | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/3752875483)| | $20 per hr - $24 per hr |
+| Company | Project Management Undergraduate Summer Intern | Location | Apply| Dated Posted | Notes |
 | Oracle | OVIP Database Technical Program & Product Manager Intern | United States | [Apply](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3773902461)| Dated Posted | $30 per hr  |
 | Micron | DRAM Product Development Quality Intern | Boise, ID | [Apply](https://micron.eightfold.ai/careers/job/17823018?src=JB-12600&domain=micron.com&utm_source=linkedin) | | |
 | Ambi Robotics | Product Management Intern, BS (Summer 2024) | Berkeley, CA | [Apply](https://jobs.lever.co/ambirobotics/278c2b3f-fa24-406c-a56f-c5aa9cc57e90)| |  |
