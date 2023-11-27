@@ -5,6 +5,7 @@ Welcome! Explore opportunities for this upcoming summer in the table below. Feel
 
 | Company | Title | Location | Apply| Dated Posted | Notes |
 | ------- | -------- | ------ | ----- | ----- |----- | 
+| Pioneers Education | Product Manager Intern (MBA Internship) | New York, Hybrid | [Apply](https://app.pioneers-education.com/jobs/artistongo--product-management-mba-intern) | | $25 per hr - $30 per hr |
 | Red Oak Technologies | Product Manager Intern | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/3752875483)| | $20 per hr - $24 per hr |
 | Company | Project Management Undergraduate Summer Intern | Location | Apply| Dated Posted | Notes |
 | Oracle | OVIP Database Technical Program & Product Manager Intern | United States | [Apply](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3773902461)| Dated Posted | $30 per hr  |
