@@ -1,5 +1,5 @@
 # Summer 2024 Product Management Internships by PMReady :)
-Welcome! Explore opportunities for this upcoming summer in the table below. Feel free to submit a pull request if you have any opportunities you would like to add!! 
+Welcome! Explore opportunities for this upcoming summer in the table below. Feel free to submit a pull request if you have any opportunities you would like to add!
 
 ![Hello](https://github.com/owenm-26/Summer-2024-Product-Management-Internships-by-PMReady/assets/75864321/7826d9ab-c844-429e-9981-18dc224eeb13)
 
